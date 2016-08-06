@@ -1,0 +1,44 @@
+body{
+    font-family: 'Microsoft YaHei';
+}
+
+.progress{
+    margin-bottom: 15px;
+}
+/*头像*/
+.wh64{
+    width:64px;
+    height:64px;
+    border-radius: 50%;
+}
+/*边距*/
+.mar_t15{
+    margin-top: 15px;
+}
+.pad0{
+    padding:0;
+}
+.page-header{
+   margin-top: 0;
+}
+.page-header h1{
+    font-size: 16px;
+    margin:0;
+}
+
+.user_search{
+    padding:10px;
+    border:1px solid #ddd;
+    border-top: none;
+}
+.taglist{
+    padding-top: 15px;
+}
+.taglist .alert{
+    margin:0 10px 10px 0;
+}
+footer{
+    padding:20px;
+    text-align: center;
+    font-weight: 400;
+}
